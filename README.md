@@ -22,14 +22,9 @@ Rachael's training module :mortar_board:
 # What's missing??
 
 Monday
-
 Tuesday
-
 Wednesday
-
 Friday
-
 Saturday
-
 Sunday
 
