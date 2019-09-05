@@ -23,7 +23,7 @@ Rachael's training module :mortar_board:
 
 Monday
 Tuesday
-Wednesday
+Thursday
 Friday
 Saturday
 Sunday
