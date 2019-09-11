@@ -4,8 +4,7 @@ Rachel's training module :mortar_board:
 
 This is a training module 
 
-ive made an edit 
-
+ive made an edit x2
 
 *A repository to teach you the basics of Github*
 
