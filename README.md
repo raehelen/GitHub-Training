@@ -1,8 +1,10 @@
 # GitHub-Training
 
-Rachael's training module :mortar_board:
+Rachel's training module :mortar_board:
 
 This is a training module 
+
+ive made an edit 
 
 
 *A repository to teach you the basics of Github*
