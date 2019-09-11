@@ -27,6 +27,7 @@ This is for extra-training
 
 Monday
 Tuesday
+Wednesday
 Thursday
 Friday
 Saturday
