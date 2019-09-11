@@ -2,6 +2,7 @@
 
 Rachael's training module :mortar_board:
 
+This is a training module 
 
 
 *A repository to teach you the basics of Github*
